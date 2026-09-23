@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS Companion",
+  "description": "Android companion app and ingest service connecting personal WhatsApp notifications to LifeOS via official NotificationListenerService.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

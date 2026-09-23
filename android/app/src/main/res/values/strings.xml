@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LifeOS Companion</string>
+    <string name="service_name">LifeOS WhatsApp Ingest Listener</string>
+    <string name="notification_channel_name">LifeOS Sync Status</string>
+    <string name="notification_channel_desc">Shows background syncing and listener status</string>
+</resources>
