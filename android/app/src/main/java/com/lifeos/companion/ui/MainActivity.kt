@@ -67,6 +67,7 @@ import com.lifeos.companion.ui.theme.Amber500
 import com.lifeos.companion.ui.theme.Blue500
 import com.lifeos.companion.ui.theme.Emerald400
 import com.lifeos.companion.ui.theme.Emerald500
+import com.lifeos.companion.ui.theme.Emerald600
 import com.lifeos.companion.ui.theme.LifeOSCompanionTheme
 import com.lifeos.companion.ui.theme.Red500
 import com.lifeos.companion.ui.theme.Slate200
