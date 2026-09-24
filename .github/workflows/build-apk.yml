@@ -24,9 +24,13 @@ jobs:
         working-directory: android
         run: chmod +x gradlew
 
+      - name: Clean Gradle generated files
+        working-directory: android
+        run: rm -rf .gradle
+
       - name: Build APK
         working-directory: android
-        run: ./gradlew assembleDebug
+        run: ./gradlew clean assembleDebug
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
